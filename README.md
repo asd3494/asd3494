@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ✨@asd3494✨
 - 👀 I’m interested in artificial intelligence and object-oriented programming
-- 🌱 I’m currently learning MySQL、C and Java
+- 🌱 I’m currently learning C++
 - 📫 reach me to email ✨18680900921@163.com✨
 
 <!---
